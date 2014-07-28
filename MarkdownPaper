@@ -1,0 +1,233 @@
+#**Free and Open Source Projects Research:
+VLC Media Player, Mozilla Firefox, and Sphinx Documentation Generator**#
+
+Assignment 2 Essay
+Comp 412: Free and Open Source Software Development
+George Thiruvathukal, Professor
+J. Curtis Main
+July 13, 2014
+ 
+
+
+##Project 1: VLC Media Player##
+
+Waning are the days when capable media players came free with operating systems, specifically Microsoft Windows.  Yes, like ten years ago, 
+
+Windows Media Player comes free with Windows.  However, this player has limitations when playing DVD and Blu-Ray officially licensed movies 
+
+and shows.  As a user of VLC media player, an open source project that plays files, discs, devices, codecs, and streams, runs with all 
+
+platforms, converts media and streaming, and is free with no spyware, ads, nor user tracking (www.videolan.org/vlc).  
+
+*Developer Interest*
+VLC media player is part of a larger open source project called VideoLAN.  Indeed, when one peruses the large list of VideoLAN projects, it 
+
+is obvious that there is a large amount of developer interest in and around digital media management.  A quick internet search reveals that 
+
+many folks are dissatisfied with both free and paid digital media players.  Developers are certainly interested in these projects, and 
+
+currently, there are many ways for developers to get involved, such as the main VideoLAN site, their Wiki commons page, or their Planet 
+
+VideoLAN blog.  Most interested developers are French, as the executive board behind VideoLAN is based in France.
+
+*User Interest*
+Years ago, I was searching for free software to download higher quality Youtube videos.  Around that time, Youtube had created its sibling 
+
+site, VEVO.com, which was an official outlet for record companies’ artists’ music videos.  What was the most highly regarded free and open 
+
+source software?  VLC media player.  A unique aspect of VideoLAN projects is that they nearly cover any and all user needs regarding 
+
+digital media.  VLC media player is just one of many, and the several projects can be used together.  Blogs, threads, and other internet 
+
+common areas have a good amount of both people recommending VLC media player and people claiming use.  According to their README file, VLC 
+
+has been downloaded over 1 billion times!
+
+*Documentation*
+VLC media player’s documentation appears highly organized and accessible.  Indeed, on their Wiki Commons page, developers have included 
+
+breakdowns and explanations of the various parts of VLC media player.  VLC media player has a General Public License, and uses Git for its 
+
+documentation and version control.    
+
+*Code Readability/Maintainability*
+The Github repository for VLC media player is organized and easy to navigate.  While the main introductory notes are helpful, the 
+
+developers certainly could include more notes in the code.  For a new programmer like me, especially for something as seemingly difficult 
+
+as digital media programming code, it would be very helpful to explain more.  VLC is programmed with C, C++, and Objective-C with Qt, which 
+
+are more common languages, thus allowing more people to understand the code.  With VLC media player turning five years old soon, the 
+
+repository and code maintenance is consistent.  Again, developers and users often speak highly of VideoLAN FOSS, so they seem to be getting 
+
+many things right!
+
+*Other Software Engineering Practices*
+VideoLAN projects seem quite up to date on utilizing several types of software and practices that make both use and development of their 
+
+products much easier.  Their many developers, including the founders, appear to have a vested, genuine interest in a positive user and 
+
+developer experience with FOSS.  What I find most impressive about this FOSS is that they seem eager to meet the growing, challenging needs 
+
+of digital media use and development.  For the many paid versions of digital media development software, VideoLAN seems to have FOSS 
+
+versions.  
+
+*Opportunities to Contribute*
+One opportunity that immediately becomes apparent is adding versions of VLC media player in other languages.  Currently, there are 48 
+
+available.  Other ways of contributing include further development in smartphone use.  Developers are always seeking digital video types 
+
+that do not currently work to be donated so that developers can make them work.  VideoLAN also has a bug-tracking system to give developers 
+
+ideas of what needs fixing.  They are also seeking writers to help improve documentation.
+
+
+##Project 2: Mozilla Firefox Internet Browser##
+
+I will never forget hearing about Firefox.  Over ten years ago, as an undergraduate student, it seemed all of us only knew about and had 
+
+Internet Explorer and/or Netscape.  Now, the four most common browsers are Chrome, Firefox, Internet Explorer, and Safari.  Chrome is 
+
+estimated to have the largest use worldwide, with Firefox and IE second and third.  What makes Firefox unique is that since it’s launch in 
+
+2004, it remains the only browser among the most used in the world to be free and open source software.  Mozilla also has FOSS email 
+
+software, known as Thunderbird, plus a Firefox OS.  At work and in my personal life, I have noticed that while people have one default or 
+
+favorite browser, they often have 2-3 browsers on hand, so that if one or two are not cooperating, maybe the third will.  
+
+*Developer Interest*
+Firefox is also written in commonly used programming languages, including C, C++, Javascript, Django/Python, and CSS.  Considering that 
+
+Firefox is available in 79 languages and used all around the world, this shows a level of developer interest.  With Mozilla’s support, they 
+
+have certainly driven a lot of the interest in Firefox.  The Mozilla team behind Firefox offers developers a list of areas that developers 
+
+can work on.  With their crash statistics, Firefox also encourages developers to use these in order to fix errors.  Github reports that 
+
+Firefox currently has 71 contributors, which seems low for a large FOSS.  
+
+*User Interest*
+Firefox is no doubt a success story in its ten years, having had 100 million downloads its first year.  While its use has declined since 
+
+the introduction of Google Chrome, Firefox still has 20-45% of the world’s browser use.  This can certainly be considered large user 
+
+interest.  Firefox is quite popular in several countries around the world, especially Indonesia and Germany.  This past year, Firefox took 
+
+a hit when the CEO made what many considered homophobic remarks publicly.  Many people and groups boycotted Firefox because of this.  
+
+First, LGBTQ allies boycotted Firefox, then, when Mozilla fired the CEO, anti-LGBTQ groups boycotted Firefox.  This has been the biggest 
+
+backlash to Firefox in its history.  What makes Firefox unique is that since its inception, it has maintained a more consistent share of 
+
+worldwide browser use, whereas Chrome and IE have seen major changes.
+
+*Documentation*
+Mozilla uses their own Mozilla Developer Network for documentation, which is also a Wiki entry, and for their code, like many FOSS, they 
+
+use Github.  Perhaps I am still an amateur when it comes to Github, but I found it not as obvious where Firefox has their documentation.  
+
+When searching for Firefox, many developer projects came up that are extensions to Firefox.  There is a link on Firefox’s “Getting Started” 
+
+that takes developers straight to their Github fork.
+
+*Code Readability/Maintainability*
+While Firefox could benefit from adding more detailed notes at the beginning of some of their coding files, they do have notes consistently 
+
+throughout their code, which is more than VLC media player has.  As a beginner in computer science and programming, it is harder for me to 
+
+understand the readability of their code, yet I was still able to follow the logic due to their notes.  Having an understanding of HTML and 
+
+CSS, I was able to follow many names of functions, variables, and methods, for example.
+
+*Other Software Engineering Practices*
+I am most impressed by Mozilla’s commitment to FOSS on a very large scale.  While Thunderbird never seemed to really take off in 
+
+popularity, their efforts toward FOSS of major software types is impressive.  Mozilla, like VLC, utilizes Wiki and Github, which both seem 
+
+to be good practices in software engineering.  Plus, the many programming languages that Firefox uses, some newer and some with a rich 
+
+history, seems to bring together their various strengths.
+
+*Opportunities to Contribute*
+An aspect of Firefox’s approach to open development that I found particularly useful are their recommendations.  While many developers and 
+
+users certainly provide their own ideas for improvement, Firefox takes some of these, and some they identify, and provides them in their 
+
+resources.  Because browsers often have lots of bugs and errors in keeping up with rapidly changing needs and environments, there are 
+
+plenty of opportunities to contribute.  Firefox provides steps to developers on how to contribute.
+
+
+##Project 3: Sphinx (Python) Documentation Generator##
+
+At this year’s IT Tech Conference at Loyola University Chicago, I attend a Sphinx workshop by Drs. Harrington and Thiruvathukal.  This was 
+
+not the first time I had come across Sphinx.  As a staff person at Loyola, whose main responsibilities include website and technology 
+
+development, Dr. Harrington had highly suggested that I utilize Sphinx for our 400+ Student Development webpages, as Computer Science does 
+
+with their Loyola website.  Sphinx is a simple text editor/publisher that uses reStructuredText as its markup language.  While it was 
+
+originally intended for Python documentation, it has since branched out into C/C++ support as well as other languages soon.  Sphinx exports 
+
+basic text to HTML, LaTeX, ePub, and Texinfo with cross-references, hierarchical structure, and automatic indices.  
+
+*Developer Interest*
+Sphinx is still growing in its developer interest, having been used more and more (with broadened applications and extensions) since first 
+
+released in 2008.  On its website, Sphinx has a non-inclusive list of about 200 projects that use Sphinx, with a huge diversity in use and 
+
+users.  Currently, also listed on their website, Sphinx lists about 50 extensions that have been made and incorporated by developers.  
+
+*User Interest*
+Considering their list of 200 different uses, which is not all uses, Sphinx FOSS is used by many groups, people, and organizations, even 
+
+Google, Loyola, and a Thesis!  Sphinx mostly seems to be utilized for Python documentation, although without a complete list it is 
+
+difficult to know.  Sphinx also has a Japanese developer group, which has not only made a Japanese translation of the documentation, but 
+
+has also published a book in Japanese on Sphinx.  This is a good sign of user interest!  Speaking from my own professional level, I have to 
+
+admit that I am very interested and eager about how much Sphinx could improve my websites at Loyola.
+
+*Documentation*
+Like the other two FOSS mentioned, Sphinx also uses Github.  Sphinx has very useful tutorials and materials to understand not only how to 
+
+use Sphinx, but also about the documentation and extension writing.  
+
+*Code Readability/Maintainability*
+Sphinx is coded using Python.  Perhaps I have a bias toward Python as the first programming language I learned, but since one of Python’s 
+
+goals is readability, I find Sphinx’s code readability high.  Like the other two, their notes could be more extensive and improved.  Some 
+
+of the method and class names may seem obvious to the developers, but this can still be confusing to outsiders.  With Github, extensions, 
+
+and their instructions on how to manipulate Sphinx, I would say that their accessibility is high.
+
+*Other Software Engineering Practices*
+Sphinx seems to take the “It takes a village” approach.  There are many people who have helped build Sphinx FOSS.  While there seems to be 
+
+less people developing and using Sphinx compared to the two projects mentioned, Sphinx as FOSS uses similar software engineering 
+
+techniques.  Their extension tutorial and how to install and use a virtual machine is very useful.
+
+*Opportunities to Contribute*
+The most obvious area for contribution with Sphinx is probably in broadening Sphinx to cover more programming languages beyond Python and 
+
+C/C++.  They mention this on their website.  Other areas for contribution are in expanding options to the user for what the text can be 
+
+with markup.  Plus, as with VLC media player, expanding the number of languages Sphinx is in is also further opportunity for contributions. 
+
+ Taking a cue from Dr. Harrington, Sphinx can certainly use publicity and recommendation via word of mouth!
+
+
+
+
+
+
+
+
+
